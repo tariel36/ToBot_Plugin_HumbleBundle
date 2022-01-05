@@ -1,2 +1,2 @@
 # ToBot_Plugin_HumbleBundle
-Plugin for ToBot that scraps HumbleBundle bundles.
+Plugin for [ToBot](https://github.com/tariel36/ToBot) that scraps [HumbleBundle](http://humblebundle.com) bundles.
